@@ -1,4 +1,4 @@
 <h1> Hello, Welcome to Valaxy Technologies !!! </h1>
 
-<h2> Successfully deployed </h2>
+<h2> DEVOPS DEPLOYED </h2>
 
